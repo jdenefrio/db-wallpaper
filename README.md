@@ -2,9 +2,15 @@
 
 A small Windows app that rotates your desktop through the
 [Digital Blasphemy](https://digitalblasphemy.com) wallpaper collection. On each monitor it only uses
-images that DB offers at (nearly) that screen's exact size and shape. You can choose galleries,
-favorites, minimum ratings, timing, time-of-day schedules and light or dark mode, and it pauses
-while you're gaming or on battery.
+images that DB offers at (nearly) that screen's exact size and shape.
+
+- Pick galleries, or make your own **collections**. Use favorites, minimum ratings, and
+  time-of-day schedules, with a different gallery per monitor if you like.
+- **Keyboard shortcuts** that work anywhere: next, favorite or never-show for the monitor under
+  your mouse, and pause.
+- Optionally sets your **lock screen** too (matching your main monitor, or a daily favorite).
+- **New DB releases** can show up on your screen as soon as they're published.
+- Light or dark mode, and pauses while you're gaming or on battery. Updates itself.
 
 > **Unofficial, fan-made app.** Not affiliated with or endorsed by Digital Blasphemy. You need your
 > own Digital Blasphemy membership and API key. All wallpapers are © Digital Blasphemy.
